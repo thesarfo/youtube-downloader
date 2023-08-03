@@ -1,0 +1,7 @@
+{
+  "name": "Yt-Dld",
+  "description": "youtube downloader built with flask.",
+  "author": "Ernest",
+  "repository": "https://github.com/thesarfo/yt-dld",
+  "keywords": ["youtube-downloader", "python", "flask", "yt-dlp"]
+}

@@ -1,0 +1,4 @@
+flask
+yt-dlp
+gunicorn
+hurry.filesize
